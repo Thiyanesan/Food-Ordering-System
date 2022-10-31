@@ -30,7 +30,7 @@ struct node *head_s;
 struct node_offer *head;
 void insert_list();
 struct offer check_customer_name()
-{
+{ 
     int i;
     struct offer s;
     printf("\n\n\nEnter Your Name:");
